@@ -1,0 +1,6 @@
+---
+
+---
+# My second post
+
+lorem
